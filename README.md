@@ -7,3 +7,5 @@ The Code for the solution is in the NNFL.ipynb
 
 Derivation for Q4 is in Q4 Derivation.jpg
 
+Author Name = Pratyush Nath Sahu
+BITS Id = 2018A3PS0620H
