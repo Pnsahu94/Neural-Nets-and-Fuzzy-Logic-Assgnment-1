@@ -5,3 +5,5 @@ Questions for the assignment are available in assignement1.pdf
 
 The Code for the solution is in the NNFL.ipynb
 
+Derivation for Q4 is in Q4 Derivation.jpg
+
